@@ -1,6 +1,6 @@
 # Sentiment-analysis
-Data set: https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews <br>
 In this project, a predictive model is built using the amazon-review so that it can be tested on further reviews. The whole project is done through NLP sentiment analysis using spaCY package.<br>
+Data set: https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews <br>
 The list of different accuracy is given below:<br>
 **Train Accuracy 73.15**%<br>
 **Test Accuracy 59.54%**<br>
